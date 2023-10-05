@@ -1,0 +1,6 @@
+.img-fondo {
+    background-image: url(Img/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: center;
+}
